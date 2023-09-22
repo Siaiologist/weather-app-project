@@ -6,13 +6,13 @@ This project brings together all the skills needed for the Advanced Modules, so 
 
 ## Goal
 
-The purpose of this assignment is to give returning students a chance to assess what learning objectives they still need to achieve before being ready for an Advanced Module.
+The purpose of this assignment is to give students a chance to assess what learning objectives they still need to achieve before being ready for an Advanced Module.
 
 ## Learning Objectives
 
 To complete this project, students will need to demonstrate skills in:
 
-- manipulating a user interface with the vanilla JS DOM API
+- manipulating a user interface with the JS DOM API
 - making API calls with `fetch`
 - laying out a user interface with CSS Grid and CSS Flexbox
 
@@ -65,8 +65,10 @@ The app should:
 ## A Note On Using The API
 
 Here is the link to sign up for the API service. This is free, but you will need to sign up to get an API Key: https://www.weatherapi.com/signup.aspx
+
 Here is the documentation: https://www.weatherapi.com/docs/
-Here is a sample API call: http://api.weatherapi.com/v1/current.json?key=<YOUR_API_KEY>&q=London
+
+Here is a sample API call: `http://api.weatherapi.com/v1/current.json?key=<YOUR_API_KEY>&q=London`
 
 ## Getting Started
 
@@ -85,5 +87,3 @@ We also suggest using Visual Studio Code's Live Server extension to render your 
 ## Submitting Your Assignment
 
 To submit your work, you will submit a Pull Request on GitHub from your fork to the original repo. If you're unsure how to do so, you can refer to [our guide to submitting assignments via Pull Request](https://github.com/AnnieCannons/intro-to-programming-curriculum/blob/main/git/resources/github-pull-request-guide.md)
-
-Please email the Student Success Coordinator to schedule your interview once you’re done.
