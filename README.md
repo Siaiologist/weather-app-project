@@ -66,7 +66,7 @@ The app should:
 
 Here is the link to sign up for the API service. This is free, but you will need to sign up to get an API Key: https://www.weatherapi.com/signup.aspx
 
-Here is the documentation: https://www.weatherapi.com/docs/
+Here is the documentation for the API: https://www.weatherapi.com/docs/
 
 Here is a sample API call: `http://api.weatherapi.com/v1/current.json?key=<YOUR_API_KEY>&q=London`
 
