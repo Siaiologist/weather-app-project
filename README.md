@@ -6,7 +6,7 @@ This project brings together all the skills needed for the Advanced Modules, so 
 
 ## Goal
 
-The purpose of this assignment is to give students a chance to assess what learning objectives they still need to achieve before being ready for an Advanced Module.
+The purpose of this assignment is to bring together everything you have learned so far in 'Intro to Programming' into one project.
 
 ## Learning Objectives
 
