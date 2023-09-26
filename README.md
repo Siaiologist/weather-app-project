@@ -40,7 +40,7 @@ Please see [our wireframe](https://www.figma.com/file/9C3tbvQrT2EmKElg6ySJEF/Wea
 
 ##### Functionality Stretch Goals
 
-These are _not_ a requirement, but are given so that you have a way to push yourself and practice more should you want to do so.
+These are **_not_** a requirement, but are given so that you have a way to push yourself and practice more should you want to do so.
 
 - Add a background image or emojis to represent the current weather.
 - Add a drop-down for the user to choose Celsius or Fahrenheit temperatures, updating the display to match.
