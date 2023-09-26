@@ -59,7 +59,6 @@ The app should:
 - Have an intuitive and easy-to-use interface.
 - Be responsive to different screen sizes.
 - Have an input box for users to type their searches in with a submit button.
-- Have an unordered list for storing users' previous searches.
 - Please refer to the wireframe [here](https://www.figma.com/file/9C3tbvQrT2EmKElg6ySJEF/Weathery-Website?type=design&node-id=0-1&mode=design).
 
 ## A Note On Using The API
