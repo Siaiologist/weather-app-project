@@ -30,10 +30,13 @@ The app meets all of the following user stories:
   - the low temperature
   - the chance of precipitation
   - the high, low, and chance of precipitation for each of the following 3 days
-- The app have the following conditional features:
+- When the user searches, _one_ of the following is displayed as well:
   - The app will display "It's Hot Today!" if it is above 75 degrees.
   - The app will display "It's Moderate Today!" if it is between 45 - 74 degrees.
   - The app will display "It's Cold Today!" if it is below 45 degrees.
+- When the user searches, they see which day out of the next three days will be hottest.
+
+Please see [our wireframe](https://www.figma.com/file/9C3tbvQrT2EmKElg6ySJEF/Weathery-Website?type=design&node-id=0-1&mode=design) to see a visual depiction of these user stories. 
 
 ###### Functionality Stretch Goals
 
@@ -56,10 +59,9 @@ The code should:
 
 The app should:
 
-- Have an intuitive and easy-to-use interface.
 - Be responsive to different screen sizes.
 - Have an input box for users to type their searches in with a submit button.
-- Please refer to the wireframe [here](https://www.figma.com/file/9C3tbvQrT2EmKElg6ySJEF/Weathery-Website?type=design&node-id=0-1&mode=design).
+- Have a design that follows [our wireframe](https://www.figma.com/file/9C3tbvQrT2EmKElg6ySJEF/Weathery-Website?type=design&node-id=0-1&mode=design).
 
 ## A Note On Using The API
 
