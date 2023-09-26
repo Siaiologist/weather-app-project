@@ -38,7 +38,7 @@ The app meets all of the following user stories:
 
 Please see [our wireframe](https://www.figma.com/file/9C3tbvQrT2EmKElg6ySJEF/Weathery-Website?type=design&node-id=0-1&mode=design) to see a visual depiction of these user stories. 
 
-##### Functionality Stretch Goals
+###### Functionality Stretch Goals
 
 These are **_not_** a requirement, but are given so that you have a way to push yourself and practice more should you want to do so.
 
