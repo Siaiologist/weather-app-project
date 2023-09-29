@@ -1,0 +1,22 @@
+.header-container {
+    display: flex ;
+    border: 3px;
+    color: black;
+    font-family: Inter;
+    font-size: 37px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.city-input {
+    font-family: Inter;
+    background-color: grey;
+    width: 598px;
+    height: 110px;
+    top: 318px;
+    left: 564px;
+
+}
+
